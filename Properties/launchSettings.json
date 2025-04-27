@@ -2,7 +2,7 @@
   "profiles": {
     "disk_forensic": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\Virtual Machines\\rohdatenformate\\Forensik\\disk1.hdd\""
+      "commandLineArgs": ""
     }
   }
 }
