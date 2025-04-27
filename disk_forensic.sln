@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "disk_forensic", "disk_forensic.csproj", "{027E83EC-34C0-415C-94C4-1F6A756AC014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027E83EC-34C0-415C-94C4-1F6A756AC014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027E83EC-34C0-415C-94C4-1F6A756AC014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027E83EC-34C0-415C-94C4-1F6A756AC014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027E83EC-34C0-415C-94C4-1F6A756AC014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2959CCEE-3713-4B4D-B4E8-9C38288C9152}
+	EndGlobalSection
+EndGlobal
